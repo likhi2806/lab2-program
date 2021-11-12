@@ -1,0 +1,6 @@
+1,2,3,4,5,6
+circular,large,light,smooth,thick,malignant
+circular,large,light,irregular,thick,malignant
+oval,small,light,smooth,thin,benign
+oval,large,light,irregular,thick,malignant
+circular,small,light,smooth,thick,benign
